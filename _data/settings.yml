@@ -7,7 +7,6 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Home',  link: 'simflexion.com'}
 - {name: 'Portfolio',  url: 'portfolio'}
 - {name: 'Blog',       url: 'blog'}
 - {name: 'Resources',      url: 'resources'}
