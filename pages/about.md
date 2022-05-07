@@ -4,5 +4,5 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out
+I am a music and engineering enthusiast. I enjoy simulating the real world through open source tools. My favorite tools are OpenFOAM, Calculix, Code Aster, Python and C++.
 
