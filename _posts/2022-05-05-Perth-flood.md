@@ -2,8 +2,8 @@
 layout: post
 title: "Getting Started"
 author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+categories: [portfolio,blog]
+tags: [portfolio,blog]
 image: Perth.png
 ---
 

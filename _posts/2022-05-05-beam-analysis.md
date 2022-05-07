@@ -2,8 +2,8 @@
 layout: post
 title: "Anaylsis of a Beam"
 author: "Joseph"
-categories: documentation
-tags: [documentation,sample]
+categories: resources
+tags: [resources,portfolio]
 image: beam.png
 ---
 

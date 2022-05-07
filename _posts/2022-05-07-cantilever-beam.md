@@ -2,8 +2,8 @@
 layout: post
 title: "Cantilever Beam: Calculix vs Code Aster"
 author: "Joseph"
-categories: documentation
-tags: [documentation]
+categories: blog
+tags: [blog,portfolio]
 image: beamCalculixResults.png
 
 ---
