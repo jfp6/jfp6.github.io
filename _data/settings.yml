@@ -10,6 +10,7 @@ menu:
 - {name: 'Portfolio',  url: 'portfolio'}
 - {name: 'Blog',       url: 'blog'}
 - {name: 'Resources',      url: 'resources'}
+- {name: 'Docs', url: 'docs'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 - {name: 'Search',          url: 'search'}
